@@ -1,0 +1,11 @@
+{
+  "name": "globot_nodejs",
+  "version": "1.0.0",
+  "description": "globot",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "viktor.bliakhovskyi",
+  "license": "ISC"
+}
